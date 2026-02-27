@@ -1,5 +1,4 @@
-// Locate the initial position of legs 
-// RegisHsu 2015-09-09
+//2300049817//
 
 #include <Servo.h>   
 
