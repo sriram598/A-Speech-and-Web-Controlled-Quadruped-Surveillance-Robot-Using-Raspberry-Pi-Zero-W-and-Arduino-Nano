@@ -17,7 +17,7 @@ The robot uses a custom **3D-printed chassis** and **12 servo motors** to achiev
 
 ---
 
-# Module 1: Assembly and Bluetooth Control ✅
+# Module 1: Assembly and Bluetooth Control 
 
 ## Overview
 
@@ -54,7 +54,7 @@ The robot successfully performs basic locomotion and responds to Bluetooth comma
 
 ---
 
-# Module 2: Web and Voice Control 🔄
+# Module 2: Web and Voice Control 
 
 ## Overview
 
@@ -95,8 +95,8 @@ Users will be able to control the robot through a web browser or voice commands 
 
 | Module | Status |
 |---------|---------|
-| Module 1 – Assembly & Bluetooth Control | ✅ Completed |
-| Module 2 – Web & Voice Control | 🔄 In Progress |
+| Module 1 – Assembly & Bluetooth Control |  Completed |
+| Module 2 – Web & Voice Control |  In Progress |
 
 ---
 
