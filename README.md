@@ -100,30 +100,11 @@ Users will be able to control the robot through a web browser or voice commands 
 
 ---
 
-# Repository Structure
-
-```text
-SPY-DER/
-│
-├── MODULE 1/
-│   ├── Codes/
-│   ├── Circuit Diagram/
-│   ├── Images/
-│   └── README.md
-│
-├── MODULE 2/
-│   ├── RaspberryPi/
-│   ├── WebControl/
-│   ├── VoiceControl/
-│   └── README.md
-│
-└── README.md
-```
 
 ---
 
 # Author
 
 **Sriram Tungala**  
-B.Tech – Embedded Systems and IoT  
+B.Tech – ECE (Embedded Systems and IoT)
 KL University
