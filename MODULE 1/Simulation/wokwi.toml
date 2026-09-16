@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = "build/SPYDER_ROBOT.ino.hex"
+elf = "build/SPYDER_ROBOT.ino.elf"
